@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my personal repository.
+
+### I am a Backend Developer and technology antusias.
+
+- 🌱 I’m currently learning about NestJS, NextJS, and React.
+- 👯 I’m looking to collaborate on JavaScript, TypeScript and Node.js.
+- 💬 Ask me about programming.
 
 <!--
 **samPram/samPram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
