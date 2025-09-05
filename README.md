@@ -1,9 +1,9 @@
 ## Hi there 👋, Welcome to my personal repository.
 
-### I am a Backend Developer and technology antusias.
+### I am a Software Engineer and technology antusias.
 
-- 🌱 I’m currently learning about NestJS, NextJS, and React.
-- 👯 I’m looking to collaborate on JavaScript, TypeScript and Node.js.
+- 🌱 I’m currently learning about Rust, Agent AI, and Backend.
+- 👯 Feel free to collaborate with me.
 - 💬 Ask me about programming.
 
 <!--
